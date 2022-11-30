@@ -3,11 +3,15 @@
   <br>
 </h1>
 
-Sage Bionetworks leads the **Multi-Consortia Coordinating (MC<sup>2</sup>) Center** for six research consortia from the NIH/NCI Division of Cancer Biology. The MC<sup>2</sup> Center aims to catalyze collaboration and facilitate an ecosystem of data and resource sharing to create a stable, diverse, and impactful cancer research community.
+Sage Bionetworks leads the **Multi-Consortia Coordinating (MC<sup>2</sup>) Center** for six research consortia from the NIH/NCI Division of Cancer Biology:
+* Cancer Cell Biology Imaging Research (CCBIR)
+* Cancer Systems Biology Consortium (CSBC)
+* Cancer Tissue Engineering Collaborative (TEC)
+* Metastasis Research Network (MetNet)
+* Patient-Derived Models of Cancer Initiative (PDMC)
+* Physical Sciencies-Oncology Network (PS-ON)
 
-![mc2-flow](https://user-images.githubusercontent.com/9377970/195174487-c7c0b0ce-45ae-4761-a803-0e305661a45d.png)
+The MC<sup>2</sup> Center aims to catalyze collaboration and facilitate an ecosystem of data and resource sharing to create a stable, diverse, and impactful cancer research community.  For more details about our work and efforts, [go here](https://doi.org/10.7303/syn7080714).
 
-You can find all of our open-source projects here, and explore the knowledge portal [here](https://www.cancercomplexity.synapse.org/)! 🎉
-
-
-
+## Tools 
+You can find all of our open-source tools & resources for MC2 Center below! 🎉
