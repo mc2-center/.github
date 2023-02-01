@@ -9,7 +9,7 @@ Sage Bionetworks leads the **Multi-Consortia Coordinating (MC<sup>2</sup>) Cente
 * Cancer Tissue Engineering Collaborative (TEC)
 * Metastasis Research Network (MetNet)
 * Patient-Derived Models of Cancer Initiative (PDMC)
-* Physical Sciencies-Oncology Network (PS-ON)
+* Physical Sciences-Oncology Network (PS-ON)
 
 The MC<sup>2</sup> Center aims to catalyze collaboration and facilitate an ecosystem of data and resource sharing to create a stable, diverse, and impactful cancer research community.  For more details about our work and efforts, [go here](https://doi.org/10.7303/syn7080714).
 
