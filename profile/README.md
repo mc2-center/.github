@@ -14,4 +14,4 @@ Sage Bionetworks leads the **Multi-Consortia Coordinating (MC<sup>2</sup>) Cente
 The MC<sup>2</sup> Center aims to catalyze collaboration and facilitate an ecosystem of data and resource sharing to create a stable, diverse, and impactful cancer research community.  For more details about our work and efforts, [go here](https://doi.org/10.7303/syn7080714).
 
 ## Tools 
-You can find all of our open-source tools & resources for MC2 Center below! 🎉
+You can find all of our open-source tools & resources for MC<sup>2</sup> Center below! 🎉
