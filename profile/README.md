@@ -1,5 +1,5 @@
 <h1 align="center">
-  Multi-Consortia Coordinationg (MC<sup>2</sup>) Center
+  Multi-Consortia Coordinating (MC<sup>2</sup>) Center
   <br>
 </h1>
 
